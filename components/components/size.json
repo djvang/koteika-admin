@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_components_sizes",
+  "info": {
+    "name": "size",
+    "icon": "certificate"
+  },
+  "options": {},
+  "attributes": {
+    "width": {
+      "type": "decimal"
+    },
+    "depth": {
+      "type": "decimal"
+    },
+    "height": {
+      "type": "decimal"
+    }
+  }
+}

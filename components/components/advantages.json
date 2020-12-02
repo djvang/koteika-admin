@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_components_advantages",
+  "info": {
+    "name": "Advantages",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "advantages": {
+      "collection": "advantage"
+    }
+  }
+}

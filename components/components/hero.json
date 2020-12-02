@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_components_heroes",
+  "info": {
+    "name": "hero",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "subtitle": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
